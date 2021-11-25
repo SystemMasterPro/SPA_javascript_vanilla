@@ -1,2 +1,5 @@
-# SPA_javascript_vanilla
-SPA creada con js-vanilla 
+# SPA CON VANILLA-JS
+
+API utilizada RICKANDMORTY
+
+###2021
